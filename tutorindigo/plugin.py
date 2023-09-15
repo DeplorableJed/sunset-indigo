@@ -22,7 +22,7 @@ config = {
         "FOOTER_LEGAL_LINKS": [
             {"title": "Terms of service", "url": "/tos"},
             {
-                "title": "Indigo theme for Open edX",
+                "title": "Sunset Learning",
                 "url": "https://github.com/overhangio/tutor-indigo",
             },
         ],
